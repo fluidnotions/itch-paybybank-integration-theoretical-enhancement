@@ -1,0 +1,18 @@
+.progress{
+   margin: auto auto;
+}
+
+.result{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.success{
+    color: green;
+}
+
+.failure{
+    color: red;
+}
+
